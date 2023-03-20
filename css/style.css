@@ -1,0 +1,16 @@
+.bg-primary{
+    background-color: blueviolet !important;
+}
+.bg-warning{
+    background-color: rgb(243, 189, 12) !important;
+}
+.bg-darl{
+    background-color: rgb(16, 9, 22) !important;
+}
+.btn-warning{
+    background-color: rgb(236, 179, 48) !important;
+}
+
+.btn-primary:hover{
+    background-color: rgb(92, 49, 132) !important;
+}
